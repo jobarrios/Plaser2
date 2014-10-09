@@ -1,3 +1,2 @@
-Testing
-123
+Plaser is my own SOA - XML Web Services framework. This is an open source platform using Components Architecture and APIs (SOAP and REST.) It is focused on hiding all the complexity of the SOA and Distributed Computing (such as where the components are, how they communicate, what OS they use or how the data is storage) and provide the programmer with a very easy platform to develop, like on a standalone environment. Currently the documentation and the web site is being prepared to be published.
 
